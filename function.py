@@ -1,3 +1,4 @@
+#59 Functions in python
 # Function to calculate the factorial of a number
 def factorial(n):
     result = 1
