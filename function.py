@@ -342,7 +342,7 @@ def calculate_arithmetic_series_sum(a, d, n):
 
 # Menu function
 def menu():
-    print("Welcome to the Python Program!")
+    print("Pick a Function 1-59!")
     print("Please select an option:")
     print("1. Calculate the factorial of a number")
     print("2. Check if a number is prime")
