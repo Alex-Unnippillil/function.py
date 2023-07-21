@@ -1,7 +1,6 @@
 #59 Functions in python
 #2023-07-21
 
-#Functions
 
 # Function to calculate the factorial of a number
 def factorial(n):
