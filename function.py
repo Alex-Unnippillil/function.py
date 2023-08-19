@@ -1,6 +1,6 @@
 #59 Functions in python
 #2023-07-21
-
+#alex unnippillil
 
 # Function to calculate the factorial of a number
 def factorial(n):
@@ -414,7 +414,7 @@ while True:
     choice = input("Enter your choice: ")
 
     if choice == "0":
-        print("Exiting the program...")
+        print("...Exiting the program")
         break
 
     elif choice == "1":
